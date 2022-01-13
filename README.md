@@ -1,4 +1,9 @@
-# 3.10_Coursera_Google Data Analytics Professional Certificate
+![ViewCount](<https://views.whatilearened.today/views/github/BDFD-LearningGround/Google-Data-Analytics-Professional-Certificate_Coursera_.svg?cache=remove>)
+![GitHub top language](<https://img.shields.io/github/languages/top/BDFD-LearningGround/Google-Data-Analytics-Professional-Certificate_Coursera_?style=flat>)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Google-Data-Analytics-Professional-Certificate_Coursera_?style=flat)
+<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
+
+# Google Data Analytics Professional Certificate(Coursera)
 Applied Learning Project
 This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job.
 
