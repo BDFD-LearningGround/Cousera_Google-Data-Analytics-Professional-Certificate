@@ -1,3 +1,4 @@
+<a href="https://github.com/bdfd"><img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/github.svg" alt="bdfd" /></a>
 ![ViewCount](<https://views.whatilearened.today/views/github/BDFD-LearningGround/Google-Data-Analytics-Professional-Certificate_Coursera_.svg?cache=remove>)
 ![GitHub top language](<https://img.shields.io/github/languages/top/BDFD-LearningGround/Google-Data-Analytics-Professional-Certificate_Coursera_?style=flat>)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Google-Data-Analytics-Professional-Certificate_Coursera_?style=flat)
